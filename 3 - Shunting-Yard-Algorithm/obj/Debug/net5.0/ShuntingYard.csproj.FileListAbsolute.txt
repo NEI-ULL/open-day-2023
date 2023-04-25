@@ -1,0 +1,16 @@
+C:\Users\lynxv\source\repos\ShuntingYard\bin\Debug\net5.0\ShuntingYard.exe
+C:\Users\lynxv\source\repos\ShuntingYard\bin\Debug\net5.0\ShuntingYard.deps.json
+C:\Users\lynxv\source\repos\ShuntingYard\bin\Debug\net5.0\ShuntingYard.runtimeconfig.json
+C:\Users\lynxv\source\repos\ShuntingYard\bin\Debug\net5.0\ShuntingYard.runtimeconfig.dev.json
+C:\Users\lynxv\source\repos\ShuntingYard\bin\Debug\net5.0\ShuntingYard.dll
+C:\Users\lynxv\source\repos\ShuntingYard\bin\Debug\net5.0\ShuntingYard.pdb
+C:\Users\lynxv\source\repos\ShuntingYard\obj\Debug\net5.0\ShuntingYard.csproj.AssemblyReference.cache
+C:\Users\lynxv\source\repos\ShuntingYard\obj\Debug\net5.0\ShuntingYard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lynxv\source\repos\ShuntingYard\obj\Debug\net5.0\ShuntingYard.AssemblyInfoInputs.cache
+C:\Users\lynxv\source\repos\ShuntingYard\obj\Debug\net5.0\ShuntingYard.AssemblyInfo.cs
+C:\Users\lynxv\source\repos\ShuntingYard\obj\Debug\net5.0\ShuntingYard.csproj.CoreCompileInputs.cache
+C:\Users\lynxv\source\repos\ShuntingYard\obj\Debug\net5.0\ShuntingYard.dll
+C:\Users\lynxv\source\repos\ShuntingYard\obj\Debug\net5.0\refint\ShuntingYard.dll
+C:\Users\lynxv\source\repos\ShuntingYard\obj\Debug\net5.0\ShuntingYard.pdb
+C:\Users\lynxv\source\repos\ShuntingYard\obj\Debug\net5.0\ShuntingYard.genruntimeconfig.cache
+C:\Users\lynxv\source\repos\ShuntingYard\obj\Debug\net5.0\ref\ShuntingYard.dll
