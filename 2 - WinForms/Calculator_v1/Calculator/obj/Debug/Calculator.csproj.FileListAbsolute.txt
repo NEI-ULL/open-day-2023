@@ -1,0 +1,11 @@
+C:\Users\lynxv\Documents\GitHub\open-day-2023\2 - WinForms\Calculator_v1\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\lynxv\Documents\GitHub\open-day-2023\2 - WinForms\Calculator_v1\Calculator\bin\Debug\Calculator.exe
+C:\Users\lynxv\Documents\GitHub\open-day-2023\2 - WinForms\Calculator_v1\Calculator\bin\Debug\Calculator.pdb
+C:\Users\lynxv\Documents\GitHub\open-day-2023\2 - WinForms\Calculator_v1\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\lynxv\Documents\GitHub\open-day-2023\2 - WinForms\Calculator_v1\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\lynxv\Documents\GitHub\open-day-2023\2 - WinForms\Calculator_v1\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\lynxv\Documents\GitHub\open-day-2023\2 - WinForms\Calculator_v1\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\lynxv\Documents\GitHub\open-day-2023\2 - WinForms\Calculator_v1\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\lynxv\Documents\GitHub\open-day-2023\2 - WinForms\Calculator_v1\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lynxv\Documents\GitHub\open-day-2023\2 - WinForms\Calculator_v1\Calculator\obj\Debug\Calculator.exe
+C:\Users\lynxv\Documents\GitHub\open-day-2023\2 - WinForms\Calculator_v1\Calculator\obj\Debug\Calculator.pdb

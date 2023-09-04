@@ -18,9 +18,12 @@ namespace Calculator
         private void ParseCalc(string calc)
         {
             DataTable dt = new DataTable();
-            double result = double.Parse(dt.Compute(calc.Remove(calc.Length - 3, 2), "").ToString());
+            var a = dt.Compute(calc.Remove(calc.Length - 3, 2), "").ToString();
+            double result = double.Parse(a);
 
             txtValue.Text = result.ToString();
+
+
         }
 
         private void AddToCalc(char c)
